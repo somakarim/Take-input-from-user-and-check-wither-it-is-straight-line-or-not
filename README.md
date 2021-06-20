@@ -1,0 +1,1 @@
+# Take-input-from-user-and-check-wither-it-is-straight-line-or-not
