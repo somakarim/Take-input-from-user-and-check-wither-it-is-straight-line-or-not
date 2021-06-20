@@ -1,4 +1,4 @@
-# Take-input-from-user-and-check-wither-it-is-straight-line-or-not
+# Take-input-from-user-and-check-wither-it-is-straight-line-or-not-using-python
 x1=input('Enter x1: ')
 x2=input('Enter x2: ')
 x3=input('Enter x3: ')
